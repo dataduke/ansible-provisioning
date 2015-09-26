@@ -33,7 +33,7 @@ with_items: ngnix_hosts  (loop through task)
 advanced when roles are introduced only use roles
 
 ----
-
+```yml
 Deployemnt
 hub: <branchname>
 
@@ -48,3 +48,4 @@ one dir for es
 one dir for logstash
 one dir for demo data
 one dir for long storage
+```
