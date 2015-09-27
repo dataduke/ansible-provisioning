@@ -38,15 +38,17 @@ As mentioned, the other tools listed here (i'm not sure about Salt, but definite
 
 - This is a decent review but seems to want to stay as neutral as possible. I've used puppet, chef and salt in enterprise environment and for me, salt is the clear winner with puppet being 2nd.
 
-    - Salt:
-    + easier to get started, learn
-    + easily extendable, pillars + yaml produce a very flexible combination
-    + quicker to write states w/ yaml then dealing w/ puppet's own language
-    + fast
-    - certain states are buggy
+    Salt:
+    + \+ easier to get started, learn
+    + \+ easily extendable, pillars + yaml produce a very flexible combination
+    + \+ quicker to write states w/ yaml then dealing w/ puppet's own language
+    + \+ fast
+    - \- certain states are buggy
     
     Puppet
-    + hiera is awesome, inheritance makes it powerful
-    + well established, language works like it should
-    + better objects (like iptables) to work w/
-    - certificate hell (95% it just works but when it doesn't ....)
+    + \+ hiera is awesome, inheritance makes it powerful
+    + \+ well established, language works like it should
+    + \+ better objects (like iptables) to work w/
+    - \- certificate hell (95% it just works but when it doesn't ....)
+
+- CFengine3 on the other hand once again that demonstrates that Mark Burgess is probably 28 years ahead of the rest of us. (A quote from a competitor at the USENIX Configuration Management Summit this past summer.) But the framework has gotten the reputation of having a very steep learning curve. From what I have seen as a consultant if the drive for configuration management comes out of Ops its almost always Puppet. If the drive comes out of engineering it is almost always Chef. Cfengine is only found in shops with a existing knowledge base in CFengine.
