@@ -32,3 +32,4 @@
 # Reviews
 
 - The leading configuration management and orchestration tools (Puppet vs. Chef vs. Ansible vs. Salt): http://www.infoworld.com/article/2609482/data-center/data-center-review-puppet-vs-chef-vs-ansible-vs-salt.html
+- "Puppet, unlike the other three solutions, uses a *declarative* paradigm, while the others are *imperative*. Which means that, with Puppet, you specify what your configuration needs to look like, and Puppet will figure out what needs to happen to get you there."
