@@ -9,6 +9,7 @@
 
 # Competition
 
+- Salt (py, push): http://saltstack.com/
 - Fabric (py): http://www.fabfile.org/
 - Capistrano (rb): http://capistranorb.com/
 - Chef (rb): https://www.chef.io/
