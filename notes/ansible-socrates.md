@@ -7,6 +7,20 @@
 - https://groups.google.com/forum/#!forum/ansible-project
 - https://github.com/ansible/ansible-modules-core
 
+# Competetion
+
+- Fabric (py): http://www.fabfile.org/
+- Capistrano (rb): http://capistranorb.com/
+- Chef (rb): https://www.chef.io/, https://docs.chef.io/, https://learn.chef.io/
+- Puppet (rb): https://puppetlabs.com/
+
+# Containerize
+
+- Vagrant
+- Docker
+- LXC
+- Packer https://www.packer.io/intro/index.html
+
 # ansible
 
 - ansible on your client accesses hosts (no agent needed, no puppet master/chef/musto server wehere you push to (middleman) needed)
