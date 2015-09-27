@@ -14,6 +14,7 @@
 - Capistrano (rb): http://capistranorb.com/
 - Chef (rb): https://www.chef.io/
 - Puppet (rb): https://puppetlabs.com/
+- CFEngine http://cfengine.com/
 
 # Containers (Virtual Machines, Images)
 
