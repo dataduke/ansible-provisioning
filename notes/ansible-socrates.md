@@ -1,3 +1,12 @@
+
+# Links
+
+- http://docs.ansible.com/
+- http://docs.ansible.com/ansible/list_of_all_modules.html
+- https://galaxy.ansible.com/
+- https://groups.google.com/forum/#!forum/ansible-project
+- https://github.com/ansible/ansible-modules-core
+
 # ansible
 
 - ansible on your client accesses hosts (no agent needed, no puppet master/chef/musto server wehere you push to (middleman) needed)
