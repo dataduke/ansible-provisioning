@@ -27,3 +27,7 @@
 - OpenStack (Kilo, Glance) https://www.openstack.org/
 - DigitalOcean
 - Amazon EC2
+
+# Reviews
+
+- The leading configuration management and orchestration tools (Puppet vs. Chef vs. Ansible vs. Salt): http://www.infoworld.com/article/2609482/data-center/data-center-review-puppet-vs-chef-vs-ansible-vs-salt.html
