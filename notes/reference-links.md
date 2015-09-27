@@ -7,7 +7,7 @@
 - https://groups.google.com/forum/#!forum/ansible-project
 - https://github.com/ansible/ansible-modules-core
 
-# Competetion
+# Competition
 
 - Fabric (py): http://www.fabfile.org/
 - Capistrano (rb): http://capistranorb.com/
