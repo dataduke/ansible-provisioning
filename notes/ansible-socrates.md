@@ -11,15 +11,16 @@
 
 - Fabric (py): http://www.fabfile.org/
 - Capistrano (rb): http://capistranorb.com/
-- Chef (rb): https://www.chef.io/, https://docs.chef.io/, https://learn.chef.io/
+- Chef (rb): https://www.chef.io/
 - Puppet (rb): https://puppetlabs.com/
 
 # Containerize
 
-- Vagrant
-- Docker
-- LXC
-- Packer https://www.packer.io/intro/index.html
+- Vagrant https://www.vagrantup.com/
+- LinuxContainer (LXC, LXD) https://linuxcontainers.org/
+- Docker https://www.docker.com/
+- Packer https://www.packer.io/
+- Openstack (Glance) https://www.openstack.org/
 
 # ansible
 
