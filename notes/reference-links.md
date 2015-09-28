@@ -15,6 +15,7 @@
 - Chef (rb): https://www.chef.io/
 - Puppet (rb): https://puppetlabs.com/
 - CFEngine (C): http://cfengine.com/
+- Quattor: http://www.quattor.org/
 
 # Containers (Virtual Machines, Images)
 
