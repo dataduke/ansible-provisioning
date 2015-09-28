@@ -53,3 +53,4 @@ As mentioned, the other tools listed here (i'm not sure about Salt, but definite
     - \- certificate hell (95% it just works but when it doesn't ....)
 
 - CFengine3 on the other hand once again that demonstrates that Mark Burgess is probably 28 years ahead of the rest of us. (A quote from a competitor at the USENIX Configuration Management Summit this past summer.) But the framework has gotten the reputation of having a very steep learning curve. From what I have seen as a consultant if the drive for configuration management comes out of Ops its almost always Puppet. If the drive comes out of engineering it is almost always Chef. Cfengine is only found in shops with a existing knowledge base in CFengine.
+- Chef is just Puppet for people who don't understand decalarative languages.
